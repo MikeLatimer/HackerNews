@@ -1,0 +1,25 @@
+# Ignore build directories and node_modules
+# Ignore C# build folders and files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Ignore Angular build and node_modules
+node_modules/
+dist/
+out-tsc/
+*.js
+*.map
+# Ignore log files
+*.log
+
+# Ignore DLLs and EXEs
+*.dll
+*.exe
+
+# Ignore user-specific Visual Studio files
+*.user
