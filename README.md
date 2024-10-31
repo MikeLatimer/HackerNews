@@ -1,4 +1,4 @@
-# News Explorer Application
+# Hacker News Application
 
 Welcome to the Hacker News application! This project showcases an Angular-based front-end integrated with a C# .NET Core backend API. 
 The application provides users with up-to-date news stories, search capabilities, and a streamlined interface for reading the latest articles. 
